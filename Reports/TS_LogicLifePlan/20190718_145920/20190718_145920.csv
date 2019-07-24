@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_LogicLifePlan,Chrome 4,Run 32 TC & write into Excel file,,2019-07-18 14:59:24,2019-07-18 15:08:20,8m - 55.960s,PASSED
+,,,,,,,
+Test Cases/Write/TC_WriteDataIntoExcelFile,Chrome 4,,,2019-07-18 14:59:25,2019-07-18 15:08:20,8m - 55.377s,PASSED
+log = new com.kms.katalon.core.logging.KeywordLogger(),Chrome 4,,,2019-07-18 14:59:25,2019-07-18 14:59:25,0.010s,PASSED
+"excelFile = ""C:\Users\HAU NGUYEN -TEQ\Katalon Studio\KDDI\CheckLogic_lifeplan.xlsx""",Chrome 4,,,2019-07-18 14:59:25,2019-07-18 14:59:25,0.003s,PASSED
+"sheetName = ""changeLogic_1207""",Chrome 4,,,2019-07-18 14:59:25,2019-07-18 14:59:25,0.002s,PASSED
+lifePlanFile = getWorkbook(excelFile),Chrome 4,,,2019-07-18 14:59:25,2019-07-18 14:59:31,5.840s,PASSED
+"sheet01 = getExcelSheet(lifePlanFile, sheetName)",Chrome 4,,,2019-07-18 14:59:31,2019-07-18 14:59:31,0.013s,PASSED
+"cellIndex = getCellIndexByAddress(sheet01, ""Y13"")",Chrome 4,,,2019-07-18 14:59:31,2019-07-18 14:59:31,0.006s,NOT_RUN
+amountAt65OnWebApp = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 4,,,2019-07-18 14:59:31,2019-07-18 14:59:31,0.002s,PASSED
+"for ([i = 1, i <= 32, (i++)])",Chrome 4,,,2019-07-18 14:59:31,2019-07-18 15:08:15,8m - 43.653s,PASSED
+"saveWorkbook(excelFile, lifePlanFile)",Chrome 4,,,2019-07-18 15:08:15,2019-07-18 15:08:20,5.157s,PASSED

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chk_NoRetirementPay</name>
+   <tag></tag>
+   <elementGuidId>129f6c07-0df7-4213-8337-cbcbbeac7c37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scroll-chan']/div/div[2]/div/div/div/div/div[2]/div/div[3]/div/div/div[2]/label/span[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-radio-text--col-1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>退職金なし</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scroll-chan&quot;)/div[@class=&quot;survey-questions&quot;]/div[@class=&quot;survey-questions__body-wrapper&quot;]/div[@class=&quot;survey-questions__body-content&quot;]/div[@class=&quot;lifeplan-survey--container lifeplan-survey-6 current-page&quot;]/div[@class=&quot;survey--body&quot;]/div[@class=&quot;page-lifeplan-analytics-game--wrapper&quot;]/div[@class=&quot;survey-form--wrapper&quot;]/div[@class=&quot;radio-game--wrapper&quot;]/div[@class=&quot;form-control--component block9-controller&quot;]/div[@class=&quot;form-control--input-wrapper&quot;]/div[@class=&quot;checkboxes&quot;]/div[@class=&quot;checkbox is-block&quot;]/label[1]/span[@class=&quot;custom-checkbox-text custom-checkbox-text--padding-left35&quot;]/span[@class=&quot;custom-radio-text--col-1&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scroll-chan']/div/div[2]/div/div/div/div/div[2]/div/div[3]/div/div/div[2]/label/span[2]/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='パートタイム収入'])[1]/following::span[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='なし'])[1]/following::span[30]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='次へ'])[1]/preceding::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ひとつ前に戻る'])[1]/preceding::span[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/span[2]/span</value>
+   </webElementXpaths>
+</WebElementEntity>

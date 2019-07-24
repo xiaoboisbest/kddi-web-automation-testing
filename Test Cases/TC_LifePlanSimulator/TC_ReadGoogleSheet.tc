@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_ReadGoogleSheet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd9429bd-7302-4351-a19b-435bc5a89eb3</testCaseGuid>
+   <variable>
+      <defaultValue>'haunguyen@teqnological.asia'</defaultValue>
+      <description></description>
+      <id>58b96184-7e98-45fb-a8bf-7d18e08872d7</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Duyh4uh3r0'</defaultValue>
+      <description></description>
+      <id>3eccb50a-8c90-4ece-947d-acdae07c0d0d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

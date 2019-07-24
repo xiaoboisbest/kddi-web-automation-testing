@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>current_single_and_plan_marry_and_no_children</description>
+   <name>TC_Scr01-01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7bec1823-1628-404f-83ed-1ab717674af0</testCaseGuid>
+</TestCaseEntity>

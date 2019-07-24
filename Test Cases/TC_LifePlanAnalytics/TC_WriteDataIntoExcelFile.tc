@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_WriteDataIntoExcelFile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f02f8874-b341-4c06-9590-1626793d50ad</testCaseGuid>
+</TestCaseEntity>
